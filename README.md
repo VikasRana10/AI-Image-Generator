@@ -19,7 +19,7 @@ https://ai-imag-gen.vercel.app/
 
 To embark on your AI-powered journey:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repo-name.git`
+1. Clone this repository: `git clone https://github.com/VikasRana10/AI-Image-Generator.git`
 2. Launch your favorite web browser and open `index.html` to enter the realm of text-to-image magic! 🪄✨
 
 ## 🎯 Usage
