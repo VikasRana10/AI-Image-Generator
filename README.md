@@ -3,7 +3,10 @@
 Welcome to the AI-Powered Web Application repository! 🌐 This exciting project is your gateway to a world where text transforms into stunning images with the power of AI. 🤖✨
 
 ## Live link
-https://ai-imag-gen.vercel.app/
+ai-imag-gen.vercel.app/
+
+## Screenshot
+![ai](https://github.com/VikasRana10/AI-Image-Generator/assets/90509555/11b7737f-8d20-48b5-bfbb-7fb915abc343)
 
 ## 🌟 Features that Shine
 
